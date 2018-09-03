@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <attr name="circular" format="float"/>
+
+    <declare-styleable name="GhostButton">
+        <attr name="circular"/>
+    </declare-styleable>
+
+    <declare-styleable name="GhostSwitch">
+        <attr name="circular"/>
+        <attr name="isSelect" format="boolean"/>
+    </declare-styleable>
+
+</resources>
